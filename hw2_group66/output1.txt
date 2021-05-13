@@ -1,0 +1,3 @@
+(hard, easy):  0.95
+(hard, difficult):  8.77
+(hard, dense):  5.9
