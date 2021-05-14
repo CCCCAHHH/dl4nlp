@@ -1,3 +1,14 @@
+Printing SimLex999 similarity...
 (hard, easy):  0.95
 (hard, difficult):  8.77
 (hard, dense):  5.9
+Completed!
+
+Computing euclidean distance...
+(head, easy):  3.3065474
+(head, difficult):  3.2821345
+(head, dense):  3.6423051
+Completed!
+
+Computing Pearson's correlation coefficient...
+Pearson's correlation coefficient is  0.08073146679853395
